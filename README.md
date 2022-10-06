@@ -2,8 +2,8 @@
 <h3 align="center">Ik heb veel ervaring met javascript en java.</h3>
 
 - 🌱 Momenteel ben ik bezig met **Website Structuren**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 Discord: RazerStorm#4199
+- 
 <p align="left">
 <a href="https://discord.gg/RazerStorm#4199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RazerStorm#4199" height="30" width="40" /></a>
 </p>
