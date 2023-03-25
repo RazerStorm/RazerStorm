@@ -1,7 +1,13 @@
 <h1 align="center">Hey, ik ben Milan</h1>
 <h3 align="center">Ik heb veel ervaring met javascript en java.</h3>
 
-- 🌱 Momenteel ben ik bezig met **Website Structuren**
+<p>
+ Hallo, ik ben Milan en ik ben een ervaren programmeur die zichzelf graag uitdaagt in verschillende programmeertalen. Mijn passie voor programmeren begon twee jaar geleden toen ik begon met het verkennen van Java en JavaScript. Sindsdien heb ik veel ervaring opgedaan en ben ik bedreven geworden in het schrijven van efficiënte en goed gestructureerde code.
+
+Naast mijn vaardigheden als programmeur, ben ik ook gepassioneerd over het ontwerpen van creatieve en functionele interfaces. Ik volg de opleiding  Grafische Technieken op school waar ik heb geleerd hoe ik websites kan maken die zowel visueel aantrekkelijk als gebruiksvriendelijk zijn.
+</p>
+
+- 🌱 Momenteel ben ik bezig met **Website Structuren**, **java** & **JavaScript**
 - 📫 Discord: RazerStorm#4199
 
 <h3 align="left">Languages and Tools:</h3>
